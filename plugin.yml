@@ -1,0 +1,9 @@
+name: Near
+version: 1.0.0
+main: NewTheBuilder\Near\Main
+api: 4.0.0
+author: NewTheBuilder
+permissions:
+  near.command.use:
+    default: op
+    description: "Allow accès /near command"

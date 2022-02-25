@@ -1,0 +1,26 @@
+#
+#_____                        __________.__               .__
+# \      \   ____ _____ _______  \______   \  |  __ __  ____ |__| ____
+# /   |   \_/ __ \\__  \\_  __ \  |     ___/  | |  |  \/ ___\|  |/    \
+#/    |    \  ___/ / __ \|  | \/  |    |   |  |_|  |  / /_/  >  |   |  \
+#\____|__  /\___  >____  /__|     |____|   |____/____/\___  /|__|___|  /
+#        \/     \/     \/                            /_____/         \/
+#
+
+Prefix: "[§9Near§f]"
+Color: "§9"
+
+NoPermission: "§cYou don't have permission to use that"
+Console_Command: "§cUse this command in-game"
+
+No_Player_Around_You: "There are no players within {BLOCK} blocks of you"
+Player_Around: "There are currently {COUNT} player(s) around you"
+Time_remaining: "You still have {TIME}§f."
+
+#number of block near
+block: 50
+
+#Enable of disable cooldown time.
+cooldown: "enable"
+#secondes
+cooldown_time: 60
